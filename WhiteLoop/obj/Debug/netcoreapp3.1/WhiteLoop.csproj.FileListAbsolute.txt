@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\bin\Debug\netcoreapp3.1\WhiteLoop.exe
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\bin\Debug\netcoreapp3.1\WhiteLoop.deps.json
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\bin\Debug\netcoreapp3.1\WhiteLoop.runtimeconfig.json
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\bin\Debug\netcoreapp3.1\WhiteLoop.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\bin\Debug\netcoreapp3.1\WhiteLoop.dll
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\bin\Debug\netcoreapp3.1\WhiteLoop.pdb
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\obj\Debug\netcoreapp3.1\WhiteLoop.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\obj\Debug\netcoreapp3.1\WhiteLoop.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\obj\Debug\netcoreapp3.1\WhiteLoop.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\obj\Debug\netcoreapp3.1\WhiteLoop.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\obj\Debug\netcoreapp3.1\WhiteLoop.dll
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\obj\Debug\netcoreapp3.1\WhiteLoop.pdb
+C:\Users\opilane\source\repos\WhiteLoop\WhiteLoop\obj\Debug\netcoreapp3.1\WhiteLoop.genruntimeconfig.cache
